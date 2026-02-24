@@ -1,0 +1,5 @@
+{
+  "name": "Générateur de Bon de Livraison",
+  "description": "Outil professionnel pour générer des bons de livraison et factures PDF personnalisés.",
+  "requestFramePermissions": []
+}
